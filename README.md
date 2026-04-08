@@ -70,7 +70,7 @@ const sutharsan: Engineer = {
 
 **`// AI & RAG`**
 
-<img src="https://skillicons.dev/icons?i=openai,langchain,python,fastapi,redis&theme=dark" height="44"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,redis&theme=dark" height="44"/>
 
 <br/>
 
