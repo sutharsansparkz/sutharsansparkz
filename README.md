@@ -1,126 +1,145 @@
-# 👋 Hey, I'm **Sutharsan**
+<div align="center">
 
-### Full-Stack MERN Developer • Micro-Frontend Architect • Chennai, India
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,40:0f172a,100:0ea5e9&height=220&section=header&text=Sutharsan%20G&fontSize=68&fontColor=f8fafc&fontAlignY=40&fontAlign=50&desc=Full-Stack%20Engineer%20%20%7C%20%20AI%20Builder%20%20%7C%20%20Chennai%2C%20India&descSize=15&descAlignY=62&descColor=94a3b8&animation=fadeIn"/>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=⚡+Building+High-Performance+Web+Apps;🤖+Engineering+AI+Agents+%26+RAG+Pipelines;☁️+Shipping+Cloud-Native+Architectures;🧩+Designing+Scalable+UI+Component+Libraries" alt="Typing SVG"/>
 
-I’m a passionate **full-stack developer** specializing in **web development, scalable infra, and micro-frontends**.
+<br/><br/>
 
-I build:
+<!-- BADGES -->
+<a href="https://www.linkedin.com/in/sutharsang">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&label=Sutharsan"/>
+</a>
+&nbsp;
+<a href="mailto:sutharsang.webdev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white&label=sutharsang.webdev"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Chennai%2C%20India-%230ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sutharsang&style=flat-square&color=0ea5e9&label=visitors"/>
 
-- ⚡ High-performance apps (React, Next.js, Node.js)
-- 🧱 Production-ready micro-frontends (React, Next.js, Vite)
-- ☁️ Cloud-deployed, dockerized architectures
-- 🔧 Clean, maintainable full-stack systems
-- 🖼️ Scalable shared UI component libraries
-
-I enjoy shipping practical systems end-to-end — frontend, backend, infra.
-
----
-
-## 🚀 Discord Presence
-
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/YOUR_DISCORD_ID_HERE?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/YOUR_DISCORD_ID_HERE)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/YOUR_DISCORD_ID_HERE)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/YOUR_DISCORD_ID_HERE)](https://dev.discordprofiles.me/openspotify/YOUR_DISCORD_ID_HERE)
+<br/><br/>
 
 ---
 
-# 🧰 Tech Stack & Tools
-
-## **Frontend**
-<div>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="40"/>
 </div>
 
+<!-- WHO AM I -->
+### 〔 01 〕&nbsp; `whoami`
+
+```typescript
+const sutharsan: Engineer = {
+  name       : "Sutharsan G",
+  role       : "Full-Stack Software Engineer",
+  location   : "Chennai, India 🇮🇳",
+  focus      : ["Scalable Web Apps", "AI Agents", "RAG Systems", "Cloud-Native"],
+  passions   : ["Clean Architecture", "DX", "Open Source", "AI Tooling"],
+  currently  : "Building LLM-powered products & agentic workflows",
+  philosophy : "Complex problems → Clean, efficient, maintainable solutions.",
+};
+```
+
+<br/>
+
 ---
 
-## **Backend & Databases**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-  <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<!-- TECH STACK -->
+### 〔 02 〕&nbsp; `tech-stack`
+
+<br/>
+
+**`// Frontend`**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite&theme=dark&perline=9" height="44"/>
 </div>
 
----
+<br/>
 
-## **DevOps & Tools**
-<div>
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+**`// Backend & Databases`**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,docker&theme=dark&perline=9" height="44"/>
 </div>
 
----
+<br/>
 
-# 🧠 Micro-Frontends & Architecture
+**`// AI & RAG`**
 
-I specialize in:
-
-✅ Module Federation  
-✅ React + Next.js MFEs  
-✅ Shared UI libraries  
-✅ Vite/Rspack micro-frontend setups  
-✅ Distributed deployment (Render, Vercel, Docker)  
-✅ Scalable full-stack architecture patterns  
-
----
-
-# 🌱 Currently Exploring
-
-- High-performance micro-frontend architecture
-- Real-time streaming pipelines
-- Event-driven microservices
-- Distributed system design
-- Frontend performance optimization
-
----
-
-# 📫 Connect With Me
-
-<div>
- <a href="https://www.linkedin.com/in/sutharsang">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
- </a>
- <a href="mailto:sutharsang.webdev@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
- </a>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=openai,langchain,python,fastapi,redis&theme=dark&perline=9" height="44"/>
 </div>
 
+<div align="left"><br/>
+
+| Layer | Tools |
+|---|---|
+| **Orchestration** | LangChain · LlamaIndex · LangGraph |
+| **Vector DBs** | Pinecone · Qdrant · pgvector |
+| **LLM APIs** | OpenAI · Anthropic · Gemini |
+| **Techniques** | RAG · Agents · Tool Use · Prompt Engineering |
+
+</div>
+
+<br/>
+
+**`// DevOps & Tooling`**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vercel,nginx,docker,postman,vscode,bun&theme=dark&perline=9" height="44"/>
+</div>
+
+<br/>
+
 ---
 
-## ⚡ GitHub Stats
+<!-- CURRENTLY EXPLORING -->
+### 〔 03 〕&nbsp; `./learning.log`
 
-<details>
-  <summary>📊 Click to expand</summary><br>
+<br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sparkz-technology&theme=blueberry&count_private=true&hide_border=true&line_height=22" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkz-technology&layout=compact&theme=blueberry&hide_border=true" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sparkz-technology&theme=blueberry&hide_border=true" />
-  </p>
+```log
+[✦] Designing multi-step AI Agents with memory, tools & reflection loops
+[✦] Building production RAG pipelines — semantic chunking, re-ranking, eval
+[✦] Exploring MCP (Model Context Protocol) for agentic system design
+[✦] Optimizing LLM latency, cost & reliability at scale
+[~] Always learning. Always shipping.
+```
 
-</details>
+<br/>
 
+---
+
+<!-- CONNECT -->
+### 〔 04 〕&nbsp; `connect --with me`
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sutharsang">
+  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sutharsang.webdev@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20me%20an%20email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"I love turning complex problems into clean, efficient, and maintainable code."*
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,60:0f172a,100:020817&height=130&section=footer&fontSize=14&fontColor=475569&desc=Open%20to%20collaborate%20%7C%20Let%27s%20build%20something%20remarkable&descAlignY=65&descSize=13&descColor=475569"/>
+</div>
