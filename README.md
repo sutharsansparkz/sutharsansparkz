@@ -6,8 +6,7 @@
 <br/>
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=⚡+Building+High-Performance+Web+Apps;🤖+Engineering+AI+Agents+%26+RAG+Pipelines;☁️+Shipping+Cloud-Native+Architectures;🧩+Designing+Scalable+UI+Component+Libraries" alt="Typing SVG"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Building+High-Performance+Web+Apps;%F0%9F%A4%96+Engineering+AI+Agents+%26+RAG+Pipelines;%E2%98%81%EF%B8%8F+Shipping+Cloud-Native+Architectures;%F0%9F%A7%9E+Designing+Scalable+UI+Component+Libraries" alt="Typing SVG"/>
 <br/><br/>
 
 <!-- BADGES -->
