@@ -21,7 +21,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Chennai%2C%20India-%230ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=sutharsang&style=flat-square&color=0ea5e9&label=visitors"/>
+<img src="https://komarev.com/ghpvc/?username=sutharsansparkz&style=flat-square&color=0ea5e9&label=visitors"/>
 
 <br/><br/>
 
@@ -73,17 +73,6 @@ const sutharsan: Engineer = {
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=openai,langchain,python,fastapi,redis&theme=dark&perline=9" height="44"/>
-</div>
-
-<div align="left"><br/>
-
-| Layer | Tools |
-|---|---|
-| **Orchestration** | LangChain · LlamaIndex · LangGraph |
-| **Vector DBs** | Pinecone · Qdrant · pgvector |
-| **LLM APIs** | OpenAI · Anthropic · Gemini |
-| **Techniques** | RAG · Agents · Tool Use · Prompt Engineering |
-
 </div>
 
 <br/>
