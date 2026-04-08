@@ -70,8 +70,8 @@ const sutharsan: Engineer = {
 
 **`// AI & RAG`**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=openai,langchain,python,fastapi,redis&theme=dark&perline=9" height="44"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px;">
+  <img src="https://skillicons.dev/icons?i=openai,langchain,python,fastapi,redis&theme=dark" height="44"/>
 </div>
 
 <br/>
